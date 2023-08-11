@@ -1,2 +1,3 @@
 # BinarySearchTreeBookMenu
-Book Menu using a binary search tree with insert, delete, search, and print features.
+#### Book Menu using a binary search tree with insert, delete, search, and print features.
+<br> The goal of this programming project was to become more familiar with binary search trees and learn to implement them with object-oriented programming. The user was asked to input their menu choice into the program. Based on their menu choice they were either prompted for more information such as the title of the book for insertion/deletion/searching. The program outputs if the task was successful or not as well as the printed binary search tree, number of nodes, and height of the tree. Error handling was included to ensure that the user could not input a menu choice that was not an option. Additionally, error handling was implemented to alert the user if a deletion, or search failed. 
